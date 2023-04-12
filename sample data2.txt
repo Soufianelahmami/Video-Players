@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"helper mod 1","desc":"Video players are an essential application for anyone who loves to watch videos on their device. Whether it's movies","photo":"https://iili.io/HkyDEBI.png"},
+  {"title":"advance pack 2","desc":" TV shows, or other video content, video players provide a convenient and user-friendly way to access and play your favorite videos.","photo":"https://iili.io/HkyDlXp.webp"},
+  {"title":"how to use this app 3","desc":"Video players offer a simple and convenient way to access and play your favorite movies, whether they are TV shows or other types of video material.","photo":"https://iili.io/HkyD0LN.jpg"},
+  {"title":"advice mod 4","desc":"Video players offer a simple and convenient way to access and play your favorite movies, whether they are TV shows or other types of video material.","photo":"https://iili.io/HkyDMrX.jpg"},
+  {"title":"tips pack 5","desc":"Mac, and Linux, and is a favorite among users for its simplicity, reliability, and ability to handle almost any video format.","photo":"https://iili.io/HkyDG1t.jpg"},
+  {"title":"helper mod 6","desc":"Users like Mac and Linux for their ease of use, dependability, and capacity to support practically any video format.","photo":"https://iili.io/HkyDX7s.png"},
+  {"title":"advance pack 7","desc":"Another popular video player is Windows Media Player. It's a default media player that comes with all Windows operating systems. ","photo":"https://iili.io/HkyDW2n.jpg"},
+  {"title":"how to use this app 8,"desc":"It supports most common video formats and offers basic features such as playback controls, volume control, and the ability to create playlists.","photo":"https://iili.io/HkyDhkG.jpg"}
 
    ]
  
